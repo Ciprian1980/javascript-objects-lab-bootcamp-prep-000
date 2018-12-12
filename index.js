@@ -1,2 +1,3 @@
-recipes 
-updateObjectWithKeyAndValue(object, key, value)
+var recipes = {}; 
+updateObjectWithKeyAndValue(object, key, value);
+  return object({key})
